@@ -25,7 +25,7 @@ Copy the code and go to [CloudFlare Workers](https://workers.cloudflare.com) to 
 
 ### Simple and automatic way
 
-Go [https://skcind47.github.io/Grive/code-builder](https://skcind47.github.io/Grive/code-builder), and follow its instructions.
+Go [Code Builer](https://skcind47.github.io/Grive/code-builder), and follow its instructions.
 
 ### Worker limits
 > 100,000 requests/day
