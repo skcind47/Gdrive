@@ -25,7 +25,7 @@ Copy the code and go to [CloudFlare Workers](https://workers.cloudflare.com) to 
 
 ### Simple and automatic way
 
-Go [Code Builer](https://skcind47.github.io/Grive/code-builder), and follow its instructions.
+Go [Code Builer](https://skcind47.github.io/Gdrive/code-builder), and follow its instructions.
 
 ### Worker limits
 > 100,000 requests/day
@@ -51,5 +51,5 @@ On the top of the script, change `lite: false` into `lite: true`, than thats all
 [Lite mode demo](https://gdindex-demo-lite.maple3142.workers.dev/)
 
 
-[All Credit Goes To: maple3142](https://github.com/maple3142)
+[All Credit Goes To: Subhendu](https://github.com/skcind47)
 # Grive
